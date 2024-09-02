@@ -20,9 +20,9 @@ for i, line in enumerate(lines):
     y_min = int(y_pixel - (bbox_height_pixel / 2))
     x_max = int(x_pixel + (bbox_width_pixel / 2))
     y_max = int(y_pixel + (bbox_height_pixel / 2))
-
-cropped_img = img.crop((x_min, y_min, x_max, y_max))
-cropped_img.show()
+    
+    cropped_img = img.crop((x_min, y_min, x_max, y_max))
+    cropped_img.show()
 
 
 
