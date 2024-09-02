@@ -42,6 +42,6 @@ input_folder = r"C:\Users\shriv\Downloads\Kaggle-LunarCraters\LU3M6TGT_yolo_form
 output_folder = r"D:\SIH\Dataset-ImgEdit-Kaggle-wout-Contrast"
 brightness_factor = 0.3  # Decreased brightness by x%
 contrast_factor = 1.0   # Increased contrast by x%
-grain_intensity= 1.0 #Added grain
+grain_intensity= 1.0  #Added grain
 
 adjust_brightness_contrast_grain(input_folder, output_folder, brightness_factor, contrast_factor, grain_intensity)    
