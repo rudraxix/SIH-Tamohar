@@ -23,7 +23,9 @@ Hence, allowing for further research into these images and onto the lunar surfac
 - ### more datasets
 
 ## Resulting Outputs
- - (![img](https://github.com/rudraxix/SIH-Tamohar/blob/main/Dataset-ImgOriginal/6_jpg.rf.8eca318e6b54b89554e207fe81b12993.jpg))
+ - <img src="https://github.com/rudraxix/SIH-Tamohar/blob/main/Dataset-ImgEdit/6_jpg.rf.8eca318e6b54b89554e207fe81b12993.jpg" alt="Image description" width="250" height="250">
+ - <img src="https://github.com/rudraxix/SIH-Tamohar/blob/main/Dataset-ImgOriginal/6_jpg.rf.8eca318e6b54b89554e207fe81b12993.jpg" alt="Image description" width="250" height="250">
+ 
   
 ## To be continued...
 
