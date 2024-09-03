@@ -29,3 +29,10 @@ Hence, allowing for further research into these images and onto the lunar surfac
   
 ## To be continued...
 
+## Contributors
+ - Samyak Waghdhare
+ - Rudra Shrivastava
+ - Giridhar Bargaley
+ - Payoshnee Joshi
+ - Himanshu Mathankar
+ - Kaneez Parveen
