@@ -21,10 +21,17 @@ Hence, allowing for further research into these images and onto the lunar surfac
  The High resolution data provided by the OHRC sensor is utilised for the training and testing of the model using the feature extraction for cropping out poorly lit regions of the Lunar surface specifically craters
 
 ## Resulting Outputs
-  <img src="https://github.com/rudraxix/SIH-Tamohar/blob/main/Kaggle-8000-Boundingboxes/-0.28360998131250864%2C1.0882708585247933%2C-14.262943827635459%2C-12.89106298779817.png" alt="image description" width="250" height="250">
-  <img src="https://github.com/rudraxix/SIH-Tamohar/blob/main/Dataset-ImgEdit/6_jpg.rf.8eca318e6b54b89554e207fe81b12993.jpg" alt="Image description" width="250" height="250"> 
-  <img src="https://github.com/rudraxix/SIH-Tamohar/blob/main/Dataset-ImgOriginal/6_jpg.rf.8eca318e6b54b89554e207fe81b12993.jpg" alt="Image description" width="250" height="250">
-  <img src="https://github.com/rudraxix/SIH-Tamohar/blob/main/DTS/1.0882708585247933%2C2.460151698362067%2C-27.981752226008567%2C-26.609871386171246.png" alt="Image description" width="250" height="250">
+  ### Original Image
+  <img src="https://github.com/rudraxix/SIH-Tamohar/blob/main/Dataset-ImgOriginal/6_jpg.rf.8eca318e6b54b89554e207fe81b12993.jpg" alt="Image description" width="300" height="300">
+  
+  ### Bounding Boxes
+  <img src="https://github.com/rudraxix/SIH-Tamohar/blob/main/Kaggle-8000-Boundingboxes/-0.28360998131250864%2C1.0882708585247933%2C-14.262943827635459%2C-12.89106298779817.png" alt="image description" width="300" height="300">
+  
+  ### Artificially darkened
+  <img src="https://github.com/rudraxix/SIH-Tamohar/blob/main/Dataset-ImgEdit/6_jpg.rf.8eca318e6b54b89554e207fe81b12993.jpg" alt="Image description" width="300" height="300"> 
+  
+  ### Artificially darkened and noised
+  <img src="https://github.com/rudraxix/SIH-Tamohar/blob/main/DTS/1.0882708585247933%2C2.460151698362067%2C-27.981752226008567%2C-26.609871386171246.png" alt="Image description" width="300" height="300">
  
   
 ## To be continued...
