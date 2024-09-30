@@ -32,9 +32,7 @@ Hence, allowing for further research into these images and onto the lunar surfac
   
   ### Artificially darkened and noised
   <img src="https://github.com/rudraxix/SIH-Tamohar/blob/main/DTS/1.0882708585247933%2C2.460151698362067%2C-27.981752226008567%2C-26.609871386171246.png" alt="Image description" width="300" height="300">
- 
-  
-## To be continued...
+
 
 ## Contributors
  - Samyak Waghdhare
